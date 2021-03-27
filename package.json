@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ploomes/ploomeststypes": "^1.0.18",
+    "@ploomes/ploomeststypes": "^1.0.19",
     "typescript": "^4.2.3"
   }
 }
