@@ -1,6 +1,6 @@
 {
   "name": "@ploomes/ploomes-entities-map",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ploomes/ploomeststypes": "^1.0.14",
+    "@ploomes/ploomeststypes": "^1.0.19",
     "typescript": "^4.2.3"
   }
 }
