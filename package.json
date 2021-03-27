@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pub": "npm version patch && git push origin && tsc && cp package.json dist && git add . && git commit -m 'new version' && git push origin && npm publish dist"
+    "publish": "npm version patch && git push origin && tsc && cp package.json dist && git add . && git commit -m 'new version' && git push origin && npm publish dist"
   },
   "keywords": [],
   "author": "",
